@@ -55,6 +55,10 @@
         margin-bottom: 0.5em;
         margin-right: 0.5em;
     }
+
+    input {
+        width: 85%;
+    }
 </style>
 
 <div class="wrapper">
